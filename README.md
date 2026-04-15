@@ -2,12 +2,8 @@
 Motherboard and Motor Driver Board for the ELEC 391 Robot Piano Player Project. Boards designed by David Tang for Group 9.
 
 ## Group 9 Piano Robot Player
-
 <p align="center">
-  <img src="Pictures/robot.png" width="500">
-</p>
-
-<p align="center">
+  <img src="Pictures/robot.png" width="400">
   <img src="Pictures/pianoplaying5.gif" width="400">
 </p>
 
@@ -31,5 +27,8 @@ A dedicated H-bridge driver board for brushed DC motors
 - Void copper region under bootstrap pins to reduce parasitic capacitance and improve switching performance
 - 3 1x6 male header pins for PWM control, encoder signals, and motor power connections
 
-
+<p align="center">
+  <img src="Motor-Driver/md-front.png" width="300">
+  <img src="Motor-Driver/md-back.png" width="300">
+</p>
 
