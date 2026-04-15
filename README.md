@@ -5,7 +5,7 @@ Motherboard and Motor Driver Board for the ELEC 391 Robot Piano Player Project. 
 
 
 <p align="center">
-  <img src="Pictures/pianoplaying.gif" width="800">
+  <img src="Pictures/pianoplaying.gif" width="400">
 </p>
 
 ## Motherboard
