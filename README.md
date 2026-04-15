@@ -20,7 +20,8 @@ A centralized power and signal distribution board designed for simplicity and mo
 - Onboard 0805 green smd LEDs for user debugging
 
 <p align="center">
-  <img src="Pictures/motherboard.png" width="500">
+  <img src="Motherboard/motherboard-front.png" width="400">
+  <img src="Motherboard/motherboard-back.png" width="400">
 </p>
 
 ## Motor Driver Board
